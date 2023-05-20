@@ -16,7 +16,7 @@ winner-advanced-steam-hour-boost'u kullanmak için gerekli modüller;\
 
 
 ## Ekran Görüntüleri
-Hesap ekleme
+Hesap ekleme\
 ![Hesap ekleme](https://cdn.discordapp.com/attachments/1101644684415225906/1109518197994033163/a2vkd0x3gAAAABJRU5ErkJggg.png)\
 Eklenen hesapların logları\
 ![Eklenen hesapların logları](https://cdn.discordapp.com/attachments/1101644684415225906/1109518573346504724/image.png)\
