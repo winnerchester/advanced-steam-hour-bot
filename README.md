@@ -1,6 +1,6 @@
 
 # Proje Başlığı
-Advanced Steam Hour Boost, discord ve steam-user modüllerini kullanarak steam'de oyunlarda saat kasmanızı yarar.\
+Advanced Steam Hour Boost, discord ve steam-user modüllerini kullanarak steam'de oyunlarda saat kasmanıza yarar.\
 ASHB [node.js](https://nodejs.org/tr) kullanılarak geliştirilmiştir.
 ## Gerekli modüller
 
