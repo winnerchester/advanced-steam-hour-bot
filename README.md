@@ -27,6 +27,8 @@ Bot tekrar başlatılınca eklenen hesapların aktif edilme logu\
 Hesap listesi\
 ![Hesap listesi](https://media.discordapp.net/attachments/1101644684415225906/1109520240976601180/Screenshot_29.png?width=362&height=674)\
 Güncel oynuyor kısmı\
-![Hesap listesi](https://media.discordapp.net/attachments/1101644684415225906/1109521192039239751/Screenshot_30.png?width=188&height=67)
+![Hesap listesi](https://media.discordapp.net/attachments/1101644684415225906/1109521192039239751/Screenshot_30.png?width=188&height=67)\
+Yedekleme sistemi\
+![Yedekleme sistemi](https://cdn.discordapp.com/attachments/1101644684415225906/1112066410118647858/image.png)
 
   
